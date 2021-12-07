@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=szy0syz.szy0syz)
+![](https://visitor-badge.glitch.me/badge?page_id=vergilken.vergilken)
 
-- 🌱　I'm currently focusing on Dart & Flutter.
+- 🌱　I'm currently focusing on Kubernetes & Machine Learning.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=szy0syz&count_private=true&theme=cobalt&show_icons=true)](https://github.com/szy0syz)
-
-https://user-images.githubusercontent.com/10555820/143402407-88f15529-4bc4-4547-8c1b-2ff39e0ce9dc.mp4
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vergilken&count_private=true&theme=cobalt&show_icons=true)](https://github.com/vergilken)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
