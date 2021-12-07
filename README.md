@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=vergilken.vergilken)
 
-- 🌱　I'm currently focusing on Kubernetes & PyTorch.
+- 🌱　I'm currently focusing on Kubernetes & Prometheus.
 
 [![Vergilken's github stats](https://github-readme-stats.vercel.app/api?username=vergilken&count_private=true&theme=cobalt&show_icons=true)](https://github.com/vergilken)
 
