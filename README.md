@@ -5,8 +5,10 @@
 - 🌱　I'm currently focusing on Kubernetes & PyTorch.
 
 [![Vergilken's github stats](https://github-readme-stats.vercel.app/api?username=vergilken&count_private=true&theme=cobalt&show_icons=true)](https://github.com/vergilken)
+
+## Language Trending
 [![Vergilken's language Trending](https://github-readme-stats.vercel.app/api/top-langs/?username=vergilken)]
-(https://github.com/vergilken)
+
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
